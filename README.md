@@ -26,6 +26,9 @@
 
 </ul>
 
+[![sammmms's GitHub stats](https://github-readme-stats.vercel.app/api?username=sammmms)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sammmms&layout=donut)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![sammmms's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sammmms)](https://github.com/anuraghazra/github-readme-stats)<br>
 
 <!---
 sammmms/sammmms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
