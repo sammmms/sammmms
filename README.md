@@ -18,7 +18,7 @@
     <li>Web Projects</li>
     <li>Game Projects</li>
   </ul>
-  <li>📫 Reach me by emailing me at <b>221110680@students.mikroskil.ac.id</b></li>
+  <li>📫 Reach me by emailing me at <b>samuelonasis.work@gmail.com</b></li>
   <li>😄 Pronouns: he/him</li>
   <li>⚡ Fun fact:</li>
   
