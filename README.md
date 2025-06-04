@@ -7,9 +7,11 @@
     <li>Python</li>
     <li>Flutter & Dart</li>
     <li>C++</li>
-    <li>Kotlin</li>
+    <li>C# (Unity)</li>
+    <li>Kotlin and it's framework Jetpack Compose</li>
     <li>PHP & Laravel</li>
     <li>JS and it's framework such as Nuxt, Next, Nest</li>
+    <li>Go</li>
   </ul>
   <li>💞️ I’m looking to collaborate on :</li>
   <ul>
